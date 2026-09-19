@@ -4,10 +4,7 @@
 **Published by:** Rohan Rajesh  
 **Contact:** rohan.rajesh1205@gmail.com
 
-> This policy describes the app as built. If you change what it does — add a
-> backend, analytics, or any network access — change this document too.
-
-## The short version
+## TLDR
 
 Glucose Trends shows you your own Dexcom CGM history. Your glucose data stays
 on your phone, and the app has **no internet access at all** — it holds no
